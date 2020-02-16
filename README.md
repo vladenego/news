@@ -1,6 +1,6 @@
 # news
-My first project for portfolio
+🐰 My first project for portfolio
 
-link 🐰:
+🐶 link :
 
 https://blogo-99153.firebaseapp.com/
